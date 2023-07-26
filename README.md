@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 My CSGO network [feelthegame.eu](feelthegame.eu)
+- 👨‍💻 My CSGO network [utopiafps.pl](utopiafps.pl)
 
-<h3 align="left">Connect with me: y0ung#8352</h3>
+<h3 align="left">Connect with me: y0ungsm</h3>
 <p align="left">
 </p>
 
