@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm y0ung</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0ungsm&label=Profile%20views&color=0e75b6&style=flat" alt="y0ungsm" /> </p>
 
-- 🔭 I’m currently working on [yservers.site](yservers.site)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **...**
 
-- 👨‍💻 My CSGO network [utopiafps.pl](utopiafps.pl)
+- 👨‍💻 My CSGO network [FeelTheGame.eu](FeelTheGame.eu)
 
 <h3 align="left">Connect with me: y0ungsm</h3>
 <p align="left">
